@@ -1,6 +1,6 @@
 # VNLS
 
-Implementation of the Variational Neural Linear Solver as presented in Toward Neural Network Simulation of Variational Quantum Algorithms by Oliver Knitter, James Stokes, and Shravan Veerapaneni. This implementation is primarily PyTorch-based and slightly expands upon the methods given in the paper by allowing for direct storage/access of linear systems in compressed sparse row (CSR) format. As outlined in the paper, this implementation is based on the restricted Boltzmann Machine (RBM) form of neural quantum states (NQS) by Carleo and Troyer (2017).
+Implementation of the Variational Neural Linear Solver as presented in Toward Neural Network Simulation of Variational Quantum Algorithms by Oliver Knitter, James Stokes, and Shravan Veerapaneni. This implementation derives from the original released with the paper (https://github.com/oliverknitter/VNLS) and is functionally identically in most aspects, though it slightly expands upon the methods given in original by allowing for direct storage/access of linear systems in compressed sparse row (CSR) format. As outlined in the paper, this implementation is based on the restricted Boltzmann Machine (RBM) form of neural quantum states (NQS) by Carleo and Troyer (2017).
 
 This repository is not being actively maintained.
 
